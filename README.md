@@ -1,5 +1,5 @@
 # Algebraic-Calculator
-# Calculator with Different iation
+# Calculator with Differentiation
 C++ Calculator using Classes/ADT/RPN
 
 The user has the ability to evaluate an infix expression by invoking Reverse Polish Notation algorithm. This will convert the infix expression to postfix following PEMDAS.<br>
